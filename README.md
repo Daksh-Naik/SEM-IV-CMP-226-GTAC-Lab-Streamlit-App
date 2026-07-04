@@ -6,9 +6,9 @@ CMP-226 Graph Theory & Combinatorics Lab - 2026 January - July
 
 Streamlit App that runs all experiments from Experiment 01 to Experiment 12 of our Graph Theory & Combinatorics Lab Course.
 
-Requires:
-Streamlit
-NetworkX
-Matplotlib
+Requires 
+1. Streamlit,
+2. NetworkX,
+3. and Matplotlib.
 
 Built entirely in Python.
